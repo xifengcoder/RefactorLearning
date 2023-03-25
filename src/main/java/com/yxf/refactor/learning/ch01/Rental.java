@@ -1,8 +1,7 @@
 package com.yxf.refactor.learning.ch01;
 
-import java.util.Enumeration;
 
-class Rental {
+public class Rental {
     private Movie _movie;
     private int _daysRented;
 
